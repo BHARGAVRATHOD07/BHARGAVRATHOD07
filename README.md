@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhargav Rathod</h1>
+<h3 align="center">2nd Year CSE Student | Web Developer | DSA Learner</h3>
 
-<!--
-**BHARGAVRATHOD07/BHARGAVRATHOD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Computer Science student  
+- 💻 Interested in **Web Development, DSA & AI**
+- 🌱 Currently learning **JavaScript & Data Structures**
+- 🎯 Goal: **Product-based company**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🌐 Connect With Me
+- 🔗 Portfolio: https://bhargavrathod07.github.io/Optimize-Portfolio-Website/
+- 💼 LinkedIn: https://www.linkedin.com/in/bhargav-rathod-rb07082006
+- 📸 Instagram: (optional)
+
+---
+
+### 📊 GitHub Stats
+![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHARGAVRATHOD07&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVRATHOD07&layout=compact&theme=tokyonight)
+
