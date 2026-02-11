@@ -22,7 +22,7 @@
 ### 🌐 Connect With Me
 - 🔗 Portfolio: https://bhargavrathod07.github.io/Optimize-Portfolio-Website/
 - 💼 LinkedIn: https://www.linkedin.com/in/bhargav-rathod-rb07082006
-- 📸 Instagram: (optional)
+  
 
 
 
