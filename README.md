@@ -24,10 +24,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/bhargav-rathod-rb07082006
 - 📸 Instagram: (optional)
 
----
 
-### 📊 GitHub Stats
-![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHARGAVRATHOD07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVRATHOD07&layout=compact&theme=tokyonight)
 
