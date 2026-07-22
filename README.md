@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable applications, solving complex problems through DSA, and exploring Artificial Intelligence.
+Passionate about building scalable applications, solving challenging problems through DSA, and exploring Artificial Intelligence.
 </p>
 
 ---
@@ -13,11 +13,11 @@ Passionate about building scalable applications, solving complex problems throug
 ## 🚀 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student
-- 💻 Passionate about Full-Stack Web Development & Software Engineering
-- 🧠 Solving Data Structures & Algorithms consistently
+- 💻 Passionate about Software Development & Full-Stack Web Development
+- 🧠 Regularly solving Data Structures & Algorithms
 - 🤖 Currently learning Machine Learning & Artificial Intelligence
-- 🌱 Exploring System Design and Cloud Computing
-- 💼 Completed Web Development Internship at InternPe
+- 🌱 Exploring System Design & Cloud Computing
+- 💼 Web Development Intern at InternPe
 - 🎯 Aspiring Software Engineer at a Product-Based Company
 
 ---
@@ -30,10 +30,13 @@ Passionate about building scalable applications, solving complex problems throug
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠 Tools & Technologies
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -47,8 +50,8 @@ Passionate about building scalable applications, solving complex problems throug
 - 🚀 Advanced Data Structures & Algorithms
 - 🤖 Machine Learning
 - 🧠 Artificial Intelligence
-- ☁ Cloud Computing
-- 🏗 System Design
+- ☁️ Cloud Computing
+- 🏗️ System Design
 
 ---
 
@@ -56,37 +59,35 @@ Passionate about building scalable applications, solving complex problems throug
 
 ### 💻 Web Development Intern — InternPe
 
-- Developed responsive web applications using HTML, CSS & JavaScript
-- Strengthened JavaScript, DOM Manipulation and UI/UX skills
-- Worked with Git & GitHub for version control
+- Built responsive web applications using HTML, CSS and JavaScript
+- Developed multiple frontend projects
+- Used Git & GitHub for version control
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Premium Glassmorphic Nexus Calculator
-
-🔹 Responsive E-Commerce Website
-
-🔹 Smart To-Do List Application
-
-🔹 Connect Four Game
+- 🧮 Premium Glassmorphic Calculator
+- 🛒 Responsive E-Commerce Website
+- ✅ Smart To-Do List Application
+- 🎮 Connect Four Game
+- 🌐 Personal Portfolio Website
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BHARGAVRATHOD07&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHARGAVRATHOD07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVRATHOD07&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARGAVRATHOD07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=BHARGAVRATHOD07&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=BHARGAVRATHOD07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,32 +95,36 @@ Passionate about building scalable applications, solving complex problems throug
 
 ## 🎯 Current Focus
 
-✔ Building Real-World Projects
-
-✔ Mastering Data Structures & Algorithms
-
-✔ Learning Machine Learning
-
-✔ Contributing to Open Source
-
-✔ Preparing for Product-Based Company Interviews
+- 💻 Building Real-World Projects
+- 📈 Improving Problem Solving Skills
+- 🤖 Learning AI & Machine Learning
+- 🌍 Contributing to Open Source
+- 🎯 Preparing for Product-Based Company Interviews
 
 ---
 
 ## 🌐 Connect With Me
 
-🌍 Portfolio  
+🌍 Portfolio
+
 https://bhargavrathod07.github.io/Optimize-Portfolio-Website/
 
-💼 LinkedIn  
+💼 LinkedIn
+
 https://www.linkedin.com/in/bhargav-rathod-rb07082006
 
 ---
 
-<div align="center">
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=BHARGAVRATHOD07&color=blue)
+<img src="https://komarev.com/ghpvc/?username=BHARGAVRATHOD07&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-### 💡 "Code. Learn. Build. Repeat."
+</p>
 
-</div>
+---
+
+<h3 align="center">
+
+💡 Code • Learn • Build • Repeat 🚀
+
+</h3>
