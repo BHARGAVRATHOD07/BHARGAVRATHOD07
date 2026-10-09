@@ -1,0 +1,37 @@
+# Regenerates the Signal panels (activity heatmap, snake, LeetCode) into the `output` branch.
+name: signal
+on:
+  schedule: [{ cron: "17 */12 * * *" }]
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw the contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/signal-snake.svg?color_snake=#FF9F43&color_dots=#151b2d,#2a2350,#4b3f9e,#8b7cf6,#c4b5fd&color_dot_border=#0B0F19
+
+      - name: Restore last good data
+        run: curl -sfL "https://raw.githubusercontent.com/${{ github.repository }}/output/cache.json" -o prev-cache.json || true
+
+      - name: Render Signal panels
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/signal.py --user "${{ github.repository_owner }}" --leetcode BHARGAV_RATHOD_782006 --out dist --prev prev-cache.json
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
