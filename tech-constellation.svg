@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420">
+  <rect width="420" height="420" rx="16" fill="#0d0d14"/>
+  <text x="210" y="32" text-anchor="middle" font-family="monospace" font-size="14" fill="#a29bfe">TECH CONSTELLATION</text>
+  <g stroke="#6c5ce7" stroke-opacity=".5" stroke-width="1.2">
+    <line x1="210" y1="215" x2="100" y2="120"/><line x1="210" y1="215" x2="320" y2="120"/>
+    <line x1="210" y1="215" x2="90" y2="300"/><line x1="210" y1="215" x2="330" y2="300"/>
+    <line x1="210" y1="215" x2="210" y2="90"/><line x1="210" y1="215" x2="210" y2="350"/>
+    <line x1="100" y1="120" x2="210" y2="90"/><line x1="320" y1="120" x2="210" y2="90"/>
+    <line x1="90" y1="300" x2="210" y2="350"/><line x1="330" y1="300" x2="210" y2="350"/>
+  </g>
+  <g font-family="monospace" font-size="13" text-anchor="middle" fill="#e6e6f0">
+    <g><circle cx="210" cy="215" r="26" fill="#ff9f43"/><text x="210" y="220" fill="#0d0d14" font-weight="700">C++</text>
+      <animateTransform attributeName="transform" type="scale" values="1;1.06;1" dur="3s" repeatCount="indefinite" additive="sum"/></g>
+    <g><circle cx="100" cy="120" r="20" fill="#f7df1e"/><text x="100" y="125" fill="#0d0d14">JS</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" repeatCount="indefinite"/></g>
+    <g><circle cx="320" cy="120" r="20" fill="#3776ab"/><text x="320" y="125">Python</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5s" repeatCount="indefinite"/></g>
+    <g><circle cx="90" cy="300" r="20" fill="#e34f26"/><text x="90" y="305">HTML</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="4.5s" repeatCount="indefinite"/></g>
+    <g><circle cx="330" cy="300" r="20" fill="#f05032"/><text x="330" y="305">Git</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-8 0;0 0" dur="3.8s" repeatCount="indefinite"/></g>
+    <g><circle cx="210" cy="90" r="20" fill="#68a063"/><text x="210" y="95">Node</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.4s" repeatCount="indefinite"/></g>
+    <g><circle cx="210" cy="350" r="20" fill="#150458"/><text x="210" y="355">Pandas</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="4.2s" repeatCount="indefinite"/></g>
+  </g>
+</svg>
